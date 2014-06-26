@@ -1,0 +1,5 @@
+2014-06-26 11:32:32,013 INFO [com.sx.springaop.test.TestTool] - method deleteForum 需要测试
+2014-06-26 11:32:32,013 INFO [com.sx.springaop.service.TestAnnoService] - 测试删除，删除id:1
+2014-06-26 11:32:32,013 INFO [com.sx.springaop.service.TestAnnoService] - 删除模块:1
+2014-06-26 11:32:32,014 INFO [com.sx.springaop.test.TestTool] - method deleteTopic 不需要测试
+2014-06-26 11:32:32,014 INFO [com.sx.springaop.service.TestAnnoService] - 删除主题:1
